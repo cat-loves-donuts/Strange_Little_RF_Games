@@ -47,6 +47,8 @@ Well, it indeed take more iterations for agent to learn how to play this game.
 
 **But**, when the food generated on the same point as barriers... The snake choose to hit on the barriers sometimes...
 
+Of course it will hit on the barriers, because it want to eat the food.....
+
 
 
 
