@@ -18,9 +18,11 @@ matplotlib==3.5.0
 **1. One day, when I was watching agent playing this game...**
 
 You know what, the most charming part for me is to observe the moment that agent find the solution.
+
 It is so stange.... I am not sure whether this is because of the RL strategy we used, the agnet know how to play the game in a sudden after 90 iterations...
 
 Before 80~90 ierations, the agent can only get like 3 or 4 points in a round. But suddenly, it can get 14 points.... And after it, it know how tp play...
+
 What happend on earth in that iteration.....
 
 
